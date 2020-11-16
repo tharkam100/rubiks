@@ -5,4 +5,7 @@ solve rubiks with 4 formulae
 Hide and seek
 
 #formula2
-J 
+J
+
+#formula3
+corner
